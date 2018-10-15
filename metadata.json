@@ -13,8 +13,7 @@
   ],
   "operatingsystem_support": [
     {
-      "operatingsystem": "Ubuntu"
-      "operatingsystemrelease": ["16.04"]
+      "operatingsystem": "CentOS"
     }
   ]
 }
