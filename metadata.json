@@ -13,7 +13,7 @@
   ],
   "operatingsystem_support": [
     {
-      "operatingsystem": Ubuntu"
+      "operatingsystem": "Ubuntu"
       "operatingsystemrelease": ["16.04"]
     }
   ]
